@@ -1,5 +1,5 @@
 # HP-Scanjet-4C-MIDI-Keytar
-Arduino Code for MIDI Controlled Stepper Motor for Arduino UNO or Nano Stepper Motor
+Arduino Code for MIDI Controlled Stepper Motor
 Hardware
 Arduino UNO or Nano
 ITEADStudio Stepper Motor Shield v1.1
